@@ -1,0 +1,12 @@
+[INFO ] 2021-07-27 21:00:02.827 [main] TestngExtendtreports1 - BeforeTest suite Executed for Firefox Browser
+[INFO ] 2021-07-27 21:00:02.832 [main] TestngExtendtreports1 - BeforeTest suite Executed
+[INFO ] 2021-07-27 21:00:06.735 [main] TestngExtendtreports1 - BeforeTest Executed for Firefox Browser
+[INFO ] 2021-07-27 21:00:07.978 [main] TestngExtendtreports1 - Before Test Executed for Chrome driver
+[INFO ] 2021-07-27 21:00:08.768 [TestNG-test=Test1-2] TestngExtendtreports1 - Test Execution started
+[INFO ] 2021-07-27 21:00:08.929 [TestNG-test=Test1-1] TestngExtendtreports1 - Test Execution started
+[INFO ] 2021-07-27 21:00:13.772 [TestNG-test=Test1-2] TestngExtendtreports1 - Test Execution Complted for Firefox Browser
+[INFO ] 2021-07-27 21:00:13.931 [TestNG-test=Test1-1] TestngExtendtreports1 - Test Execution Complted for Chrome Browser
+[INFO ] 2021-07-27 21:00:15.104 [main] TestngExtendtreports1 - After Test Execution Complted for Firefox Browser
+[INFO ] 2021-07-27 21:00:15.190 [main] TestngExtendtreports1 - After Test Execution Completed  for Chrome Browser
+[INFO ] 2021-07-27 21:00:15.533 [main] TestngExtendtreports1 - After Test Suite Execution Completed for Firefox Browser
+[INFO ] 2021-07-27 21:00:15.578 [main] TestngExtendtreports1 - After Test Suite Execution Completed  for Chrome Browser  Extended reports2
