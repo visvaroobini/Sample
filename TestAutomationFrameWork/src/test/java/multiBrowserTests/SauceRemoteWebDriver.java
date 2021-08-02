@@ -45,5 +45,7 @@ public class SauceRemoteWebDriver {
 			
 			driver.close();
 			System.out.println("TestCompleted from Git hub");
+			System.out.println("ChangesInMaster");
+			
 		 }
 	}
