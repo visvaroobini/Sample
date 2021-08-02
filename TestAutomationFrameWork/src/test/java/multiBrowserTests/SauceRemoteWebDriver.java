@@ -1,13 +1,18 @@
 package multiBrowserTests;
+
 import java.net.URL;
+
 import org.openqa.selenium.MutableCapabilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
+
 import org.openqa.selenium.remote.RemoteWebDriver;
+
 
 public class SauceRemoteWebDriver {
 
-		 public static void main(String[] args) throws Exception {		 
+		 public static void main(String[] args) throws Exception {
+	 			 
 		 MutableCapabilities sauceOptions = new MutableCapabilities();
 		 sauceOptions.setCapability("username", "oauth-agathursamy.v-1306a");
 		 sauceOptions.setCapability("accessKey", "ab78c042-f9e4-4a21-bef8-e3958b5e1355");
